@@ -1,11 +1,4 @@
-hii
-world
+
+hi this is bindu
+hello
 bindu
-gagana
-chethu
-ammu
-sindhu
-sinchu
-CE
-varsha
-bhoomi
