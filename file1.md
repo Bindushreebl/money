@@ -1,2 +1,0 @@
-gagana
-bindu
